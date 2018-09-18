@@ -1,0 +1,2 @@
+# mycuinfo-scrape
+scrape mycuinfo!
